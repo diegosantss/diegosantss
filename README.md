@@ -8,20 +8,19 @@
 </head>
 
 <div>
-  
-  <img height = "170em" src = "https://github-readme-stats.vercel.app/api?username=diegosantss&theme=dracula"/>
-  <img align = "right" height = "200em" width = "250em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantss&theme=dracula"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=diegosantss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantss&layout=compact&langs_count=16&theme=dracula"/>
 
 </div>
 <br>
 
 <div  align = "center"> 
-  <div style = "display: inline_block"> <br>
-    <img align = "left" height = "250" alt = "coding-time" src = "imgs/inteligencia-art.gif">
+  <div style = "display:inline_block"> <br>
+    <img align = "center" height = "250" alt = "coding-time" src = "https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
     <h1 align = "center">Linguagens/Frameworks</h1>
-    <img align = "center" height = "40" width = "40" alt = "python-icon" title="Python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align = "center" height = "40" width = "40" alt = "java-icon" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align = "center" height = "40" width = "40" alt = "javascript-icon" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align = "center" height = "40" width = "40" alt = "python-icon" title="Python" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align = "center" height = "40" width = "40" alt = "java-icon" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align = "center" height = "40" width = "40" alt = "javascript-icon" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
      <img align = "center" height = "40" width = "40" alt = "vuejs-icon" title="VueJs" src="https://br.vuejs.org/images/logo.svg" />
     <img align = "center" height = "40" width = "40" alt = "html5-icon" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "css3-icon" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -35,8 +34,6 @@
     <img align = "center" height = "65" width = "65" alt = "docker-icon" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "git-icon" title="GitHub"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "linux-icon" title="Linux"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    
-
    </div> <br>
     
   <h1 align = "center">Redes Sociais</h1>
@@ -48,4 +45,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/Viniciosw/Viniciosw/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegosantss/diegosantss/blob/output/github-contribution-grid-snake.svg)

@@ -24,6 +24,7 @@
      <img align = "center" height = "40" width = "40" alt = "vuejs-icon" title="VueJs" src="https://br.vuejs.org/images/logo.svg" />
     <img align = "center" height = "40" width = "40" alt = "html5-icon" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align = "center" height = "40" width = "40" alt = "css3-icon" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align = "center" height = "40" width = "50" alt = "tailwind-icon" title="TailwindCSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
     <img align = "center" height = "40" width = "40" alt = "spark-icon" title="Apache Spark" src="https://spark.apache.org/images/spark-logo-rev.svg" />
     <h1 align = "center">Banco de Dados</h1>
     <img align = "center" height = "40" width = "40" alt = "postgre-icon" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
